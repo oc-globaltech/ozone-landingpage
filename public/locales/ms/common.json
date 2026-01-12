@@ -1,6 +1,6 @@
 {
   "hero": {
-    "title": "Platform Penstriman Global Malaysia",
+    "title": "Global",
     "streaming": "Penstriman",
     "platform": "Platform",
     "peopleInterested": "orang berminat",
@@ -78,7 +78,7 @@
   "aim": {
     "title": "Matlamat",
     "aim": "Kami",
-    "description1": "Alami revolusi penstriman global pertama Malaysia -",
+    "description1": "Alami revolusi penstriman global pertama -",
     "description2": "filem, pencipta, dan hiburan",
     "description3": ", semuanya dalam satu tempat!",
     "description4": "Sertai ribuan yang menunggu akses awal. Input anda membantu membentuk platform."
@@ -160,7 +160,7 @@
       "creatorDesc": "Muat naik, monetize, dan capai penonton global.",
       "watch": "Tonton",
       "viewer": "Penonton",
-      "viewerDesc": "Temui cerita Malaysia dengan gaya global."
+      "viewerDesc": "Temui cerita dengan gaya global."
     },
     "fields": {
       "name": "Nama",
@@ -246,7 +246,7 @@
   },
   "shortSurvey": {
     "title": "Jadi yang pertama untuk mengalami.",
-    "description": "Platform penstriman Malaysia untuk filem, pencipta, dan hiburan. Kongsi butiran anda dan kami akan menghubungi dengan akses awal dan kemas kini.",
+    "description": "Platform Penstriman Global untuk filem, pencipta, dan hiburan. Kongsi butiran anda dan kami akan menghubungi dengan akses awal dan kemas kini.",
     "fields": {
       "name": "Nama",
       "role": "Peranan",
