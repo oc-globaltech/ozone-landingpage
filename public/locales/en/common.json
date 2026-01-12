@@ -78,7 +78,7 @@
   "aim": {
     "title": "Our",
     "aim": "aim",
-    "description1": "Experience the first global streaming revolution -",
+    "description1": "Experience Malaysia's first global streaming revolution -",
     "description2": "movies, creators, and entertainment",
     "description3": ", all in one place!",
     "description4": "Join thousands waiting for early access. Your input helps shape the platform."
@@ -160,7 +160,7 @@
       "creatorDesc": "Upload, monetize, and reach a global audience.",
       "watch": "Watch",
       "viewer": "Viewer",
-      "viewerDesc": "Discover stories with global flair."
+      "viewerDesc": "Discover Malaysian stories with global flair."
     },
     "fields": {
       "name": "Name",
@@ -246,7 +246,7 @@
   },
   "shortSurvey": {
     "title": "Be the first to experience.",
-    "description": "Global Streaming Platform for movies, creators, and entertainments. Share your details and we'll reach out with early access and updates.",
+    "description": "Malaysia's streaming platform for movies, creators, and entertainments. Share your details and we'll reach out with early access and updates.",
     "fields": {
       "name": "Name",
       "role": "Role",
