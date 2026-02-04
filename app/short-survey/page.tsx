@@ -112,7 +112,7 @@ export default function ShortSurveyPage() {
         </button>
         <div className="space-y-3 text-center">
           <div className="mx-auto h-17 w-17 relative">
-            <Image src="/3dlogo.png" alt="Ozone logo" fill className="object-contain" priority />
+            <Image src="/ozlogo2.png" alt="Ozone logo" fill className="object-contain" priority />
           </div>
           <span className="px-2 text-3xl sm:text-4xl font-extrabold tracking-[0.22em] uppercase bg-gradient-to-b from-cyan-200 via-teal-300 to-cyan-500 bg-clip-text text-transparent drop-shadow-[0_6px_24px_rgba(34,211,238,0.35)]">
             ozone

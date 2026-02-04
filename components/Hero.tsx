@@ -116,13 +116,13 @@ export default function Hero({ onOpenSurvey }: HeroProps) {
         initial={{ scale: 0.8, opacity: 0 }}
         animate={{ scale: 1, opacity: 1 }}
         transition={{ duration: 1, delay: 0.2 }}
-        className="relative z-10 mb-6 sm:mb-8 md:mb-10 mt-6 sm:mt-8 md:mt-10 flex flex-col items-center"
+        className="relative z-10 mb-6 sm:mb-8 md:mb-10 mt-10 sm:mt-12 md:mt-14 flex flex-col items-center"
       >
-        <div className="relative h-32 w-32 sm:h-40 sm:w-40 md:h-48 md:w-48 lg:h-60 lg:w-60 mx-auto">
+        <div className="relative h-[300px] w-[300px] sm:h-[200px] sm:w-[200px] md:h-[240px] md:w-[240px] lg:h-[400px] lg:w-[400px] mx-auto translate-y-3 sm:translate-y-8 md:translate-y-9">
           {/* <div className="absolute -inset-4 rounded-full bg-[radial-gradient(circle_at_30%_30%,rgba(94,234,212,0.25),transparent_55%),radial-gradient(circle_at_70%_70%,rgba(34,211,238,0.2),transparent_60%)] blur-xl opacity-60 pointer-events-none" />
           <div className="absolute -inset-1 rounded-full border border-white/10 bg-white/5 backdrop-blur-xl shadow-[0_20px_60px_rgba(0,0,0,0.4)]" /> */}
           <Image
-            src="/3dlogo.png"
+            src="/ozlogo2.png"
             alt="OZONE Logo"
             fill
             className="object-contain"
@@ -130,11 +130,7 @@ export default function Hero({ onOpenSurvey }: HeroProps) {
             sizes="(max-width: 640px) 160px, (max-width: 768px) 192px, 300px"
           />
         </div>
-        <div className="mt-1 text-center">
-          <span className="px-2 text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-[0.22em] uppercase bg-gradient-to-b from-cyan-200 via-teal-300 to-cyan-500 bg-clip-text text-transparent drop-shadow-[0_6px_24px_rgba(34,211,238,0.35)]">
-            ozone
-          </span>
-        </div>
+        
       </motion.div>
 
       {/* Heading */}

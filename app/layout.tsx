@@ -24,12 +24,12 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       { url: "/favicon.ico" },
-      { url: "/icon.png", type: "image/png", sizes: "512x512" },
+      { url: "/ozlogo2.png", type: "image/png", sizes: "512x512" },
       { url: "/android-chrome-192x192.png", type: "image/png", sizes: "192x192" },
       { url: "/android-chrome-512x512.png", type: "image/png", sizes: "512x512" },
     ],
     apple: [
-      { url: "/apple-touch-icon.png", sizes: "180x180" },
+      { url: "/ozlogo2.png", sizes: "180x180" },
     ],
   },
   openGraph: {
@@ -38,14 +38,14 @@ export const metadata: Metadata = {
       "Ozone is OC Global Technology’s streaming platform for movies, creators, and AI-driven entertainment. Sign up for early access.",
     url: "https://ozone.ocglobaltech.com",
     siteName: "Ozone",
-    images: [{ url: "/icon.png", width: 512, height: 512 }],
+    images: [{ url: "/ozlogo2.png", width: 512, height: 512 }],
   },
   twitter: {
     card: "summary",
     title: "Ozone | OC Global Technology",
     description:
       "Ozone is OC Global Technology’s streaming platform for movies, creators, and AI-driven entertainment. Sign up for early access.",
-    images: ["/icon.png"],
+    images: ["/ozlogo2.png"],
   },
 };
 
