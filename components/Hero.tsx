@@ -7,15 +7,10 @@ import { useEffect, useState, useRef } from "react";
 import VantaBackground from "@/components/VantaBackground";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import { useTranslation } from "react-i18next";
-import { collection, onSnapshot } from "firebase/firestore";
-import { db } from "@/firebase/firebase";
 
 type HeroProps = {
   onOpenSurvey: () => void;
 };
-
-// Toggle: true = live Firestore count, false = static number
-const USE_REALTIME_COUNT = true;
 
 export default function Hero({ onOpenSurvey }: HeroProps) {
   const { t } = useTranslation("common");
@@ -28,28 +23,10 @@ export default function Hero({ onOpenSurvey }: HeroProps) {
   const [displayValue, setDisplayValue] = useState("0");
 
   const lastUpdateRef = useRef(0);
-  const throttleDelay = 16; 
-  const unsubscribeRef = useRef<null | (() => void)>(null);
+  const throttleDelay = 16;
 
   useEffect(() => {
-    if (USE_REALTIME_COUNT) return;
-    count.set(904);
-  }, [count]);
-
-  useEffect(() => {
-    if (!USE_REALTIME_COUNT) return;
-    try {
-      const leadsRef = collection(db, "surveyLeads");
-      const unsubscribe = onSnapshot(leadsRef, (snap) => {
-        count.set(snap.size || 0);
-      });
-      unsubscribeRef.current = unsubscribe;
-    } catch (err) {
-      console.error("Firestore listener failed:", err);
-    }
-    return () => {
-      if (unsubscribeRef.current) unsubscribeRef.current();
-    };
+    count.set(75);
   }, [count]);
   
   useMotionValueEvent(springCount, "change", (latest) => {
