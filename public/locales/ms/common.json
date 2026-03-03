@@ -148,7 +148,12 @@
     }
   },
   "footer": {
-    "builtBy": "Dibina oleh ©️ OC Global Technology"
+    "builtBy": "Hak cipta © 2026 OC Global Technology. Semua hak terpelihara.",
+    "privacyPolicy": "Dasar Privasi",
+    "termsConditions": "Terma & Syarat",
+    "cookiePolicy": "Dasar Kuki",
+    "aboutUs": "Tentang Kami",
+    "contactUs": "Hubungi Kami"
   },
   "survey": {
     "preregister": "pendaftaran awal",
@@ -283,5 +288,338 @@
       "error": "Tidak dapat menghantar sekarang. Sila cuba lagi.",
       "errorRequired": "Sila isi nama, peranan, dan e-mel."
     }
+  },
+  "privacyPolicy": {
+    "title": "Dasar Privasi",
+    "effectiveDateLabel": "Tarikh kuat kuasa",
+    "effectiveDate": "3 Mac 2026",
+    "backHome": "Kembali ke laman utama",
+    "intro": "Ozone oleh OC Global Technology menghormati privasi anda. Dasar ini menerangkan bagaimana kami mengumpul, menggunakan, menyimpan, dan melindungi maklumat anda apabila anda melawat laman ini atau menghantar borang pra-pendaftaran.",
+    "sections": [
+      {
+        "title": "1) Maklumat yang kami kumpul",
+        "items": [
+          "Maklumat yang anda isi melalui borang pra-pendaftaran, termasuk nama, emel, peranan (creator/viewer), dan maklumat lain yang anda pilih untuk kongsikan.",
+          "Untuk borang tertentu, kami juga boleh menerima nombor telefon, negara, minat kandungan, peranti, atau keutamaan tontonan.",
+          "Pilihan bahasa laman turut disimpan secara setempat pada pelayar anda (localStorage) untuk pengalaman yang lebih konsisten."
+        ]
+      },
+      {
+        "title": "2) Cara kami menggunakan maklumat",
+        "items": [
+          "Mengurus minat awal pengguna terhadap platform Ozone serta perancangan pelancaran produk.",
+          "Menghubungi anda mengenai kemas kini berkaitan akses awal, maklumat produk, atau peluang kolaborasi.",
+          "Menganalisis trend umum pengguna untuk menambah baik pengalaman platform dan komunikasi."
+        ]
+      },
+      {
+        "title": "3) Penyimpanan dan keselamatan data",
+        "items": [
+          "Data borang disimpan menggunakan infrastruktur berasaskan Firebase/Firestore.",
+          "Kami mengambil langkah munasabah dari segi teknikal dan organisasi untuk melindungi data anda daripada akses tanpa kebenaran, pendedahan, atau perubahan.",
+          "Walau bagaimanapun, tiada kaedah penghantaran atau penyimpanan data di internet yang boleh dijamin 100% selamat."
+        ]
+      },
+      {
+        "title": "4) Perkongsian maklumat",
+        "items": [
+          "Kami tidak menjual data peribadi anda kepada pihak ketiga.",
+          "Data boleh diproses oleh penyedia perkhidmatan teknologi yang digunakan bagi operasi laman (contohnya storan dan infrastruktur), tertakluk kepada keperluan keselamatan yang bersesuaian.",
+          "Kami boleh mendedahkan maklumat jika dikehendaki oleh undang-undang atau proses perundangan yang sah."
+        ]
+      },
+      {
+        "title": "5) Tempoh simpanan data",
+        "items": [
+          "Maklumat anda disimpan selama diperlukan untuk tujuan operasi, penilaian minat pengguna, dan komunikasi berkaitan produk.",
+          "Kami boleh memadam atau menganonimkan data apabila ia tidak lagi diperlukan, tertakluk kepada keperluan undang-undang."
+        ]
+      },
+      {
+        "title": "6) Hak anda",
+        "items": [
+          "Anda boleh meminta akses, pembetulan, atau pemadaman data peribadi yang telah anda berikan kepada kami.",
+          "Anda juga boleh menarik balik persetujuan komunikasi pemasaran pada bila-bila masa."
+        ]
+      },
+      {
+        "title": "7) Pautan pihak ketiga",
+        "items": [
+          "Laman ini mungkin mengandungi pautan ke platform luar (contohnya media sosial).",
+          "Polisi privasi laman pihak ketiga adalah berasingan, dan kami menggalakkan anda menyemak polisi mereka secara terus."
+        ]
+      },
+      {
+        "title": "8) Kemas kini dasar ini",
+        "items": [
+          "Dasar Privasi ini boleh dikemas kini dari semasa ke semasa mengikut perubahan perkhidmatan atau keperluan perundangan.",
+          "Versi terkini akan sentiasa dipaparkan pada halaman ini bersama tarikh kuat kuasa."
+        ]
+      }
+    ],
+    "contact": {
+      "title": "9) Hubungi kami",
+      "description": "Jika anda mempunyai sebarang pertanyaan berkaitan privasi atau ingin membuat permintaan terhadap data anda, sila hubungi:"
+    }
+  },
+  "termsConditions": {
+    "title": "Terma & Syarat",
+    "effectiveDateLabel": "Tarikh kuat kuasa",
+    "effectiveDate": "3 Mac 2026",
+    "backHome": "Kembali ke laman utama",
+    "intro": "Dengan mengakses atau menggunakan laman Ozone serta borang pra-pendaftaran, anda bersetuju dengan Terma & Syarat ini. Jika anda tidak bersetuju, sila hentikan penggunaan perkhidmatan kami.",
+    "sections": [
+      {
+        "title": "1) Penerimaan terma",
+        "items": [
+          "Terma ini terpakai kepada semua pelawat dan pengguna aset digital Ozone.",
+          "Anda bertanggungjawab untuk menyemak terma ini dari semasa ke semasa bagi sebarang kemas kini.",
+          "Penggunaan berterusan selepas kemas kini bermaksud anda menerima terma yang telah disemak."
+        ]
+      },
+      {
+        "title": "2) Kelayakan dan tanggungjawab pengguna",
+        "items": [
+          "Anda bersetuju untuk memberikan maklumat yang tepat dan terkini dalam semua borang.",
+          "Anda tidak boleh menggunakan laman ini untuk aktiviti menyalahi undang-undang, penyalahgunaan, atau penipuan.",
+          "Anda bertanggungjawab memastikan maklumat yang dihantar adalah benar dan sah."
+        ]
+      },
+      {
+        "title": "3) Pra-pendaftaran dan komunikasi",
+        "items": [
+          "Pra-pendaftaran tidak menjamin ketersediaan produk, tarikh pelancaran, atau kelulusan akaun.",
+          "Kami boleh menghubungi anda berkaitan akses awal, kemas kini produk, dan pengumuman berkaitan.",
+          "Anda boleh berhenti menerima komunikasi pemasaran jika berkenaan."
+        ]
+      },
+      {
+        "title": "4) Harta intelek",
+        "items": [
+          "Semua penjenamaan, logo, elemen reka bentuk, dan kandungan laman adalah milik Ozone/OC Global Technology atau digunakan dengan kebenaran.",
+          "Anda tidak dibenarkan menyalin, menghasilkan semula, mengedarkan, atau mengeksploitasi bahan kami untuk tujuan komersial tanpa kebenaran bertulis terlebih dahulu."
+        ]
+      },
+      {
+        "title": "5) Tingkah laku yang dilarang",
+        "items": [
+          "Anda tidak boleh cuba mendapatkan akses tanpa kebenaran, melakukan reverse engineering, scraping, atau mengganggu sistem kami.",
+          "Anda tidak boleh menghantar kod berbahaya, spam, atau kandungan yang melanggar mana-mana undang-undang yang terpakai."
+        ]
+      },
+      {
+        "title": "6) Perkhidmatan dan pautan pihak ketiga",
+        "items": [
+          "Laman kami mungkin mengandungi pautan ke perkhidmatan pihak ketiga (contohnya platform media sosial).",
+          "Kami tidak bertanggungjawab terhadap kandungan, ketersediaan, atau terma pihak ketiga.",
+          "Penggunaan perkhidmatan pihak ketiga adalah tertakluk kepada polisi mereka sendiri."
+        ]
+      },
+      {
+        "title": "7) Penafian dan had liabiliti",
+        "items": [
+          "Laman dan perkhidmatan pra-pendaftaran disediakan atas dasar 'seadanya' dan 'bergantung kepada ketersediaan'.",
+          "Setakat yang dibenarkan undang-undang, kami tidak memberi jaminan perkhidmatan tanpa gangguan atau bebas ralat.",
+          "Kami tidak bertanggungjawab ke atas kerugian tidak langsung, sampingan, atau berbangkit akibat penggunaan laman ini."
+        ]
+      },
+      {
+        "title": "8) Perubahan dan penamatan",
+        "items": [
+          "Kami boleh mengubah, menggantung, atau menghentikan mana-mana bahagian laman atau perkhidmatan pada bila-bila masa.",
+          "Kami boleh mengemas kini Terma & Syarat ini dari semasa ke semasa, dan kemas kini berkuat kuasa sebaik sahaja diterbitkan pada halaman ini."
+        ]
+      }
+    ],
+    "contact": {
+      "title": "9) Hubungi kami",
+      "description": "Jika anda mempunyai pertanyaan tentang terma ini, sila hubungi kami di:"
+    }
+  },
+  "cookiePolicy": {
+    "title": "Dasar Kuki",
+    "effectiveDateLabel": "Tarikh kuat kuasa",
+    "effectiveDate": "3 Mac 2026",
+    "backHome": "Kembali ke laman utama",
+    "intro": "Dasar Kuki ini menerangkan bagaimana Ozone oleh OC Global Technology menggunakan kuki dan teknologi seumpamanya apabila anda melawat laman web kami.",
+    "sections": [
+      {
+        "title": "1) Apakah itu kuki?",
+        "items": [
+          "Kuki ialah fail teks kecil yang disimpan pada pelayar atau peranti anda apabila anda melawat laman web.",
+          "Ia membantu laman web mengingati keutamaan, meningkatkan prestasi, dan memahami corak penggunaan."
+        ]
+      },
+      {
+        "title": "2) Jenis kuki yang kami gunakan",
+        "items": [
+          "Kuki penting: diperlukan untuk fungsi asas laman web dan keselamatan.",
+          "Kuki keutamaan: menyimpan tetapan seperti pilihan bahasa.",
+          "Kuki analitik: membantu kami memahami trafik dan menambah baik pengalaman pengguna."
+        ]
+      },
+      {
+        "title": "3) Cara kami menggunakan kuki",
+        "items": [
+          "Untuk memastikan laman web berfungsi dengan baik.",
+          "Untuk mengingati bahasa pilihan anda dan memberi pengalaman yang konsisten antara lawatan.",
+          "Untuk menganalisis trend penggunaan umum serta mengoptimumkan kandungan dan prestasi."
+        ]
+      },
+      {
+        "title": "4) Kuki pihak ketiga",
+        "items": [
+          "Sesetengah perkhidmatan pihak ketiga yang dipautkan daripada laman kami mungkin meletakkan kuki mereka sendiri.",
+          "Kami tidak mengawal tingkah laku kuki pihak ketiga; sila rujuk dasar kuki atau privasi mereka."
+        ]
+      },
+      {
+        "title": "5) Mengurus kuki",
+        "items": [
+          "Anda boleh mengurus atau menyahaktifkan kuki melalui tetapan pelayar anda.",
+          "Menyekat kuki tertentu mungkin menjejaskan ciri laman web dan pengalaman pelayaran anda."
+        ]
+      },
+      {
+        "title": "6) Kemas kini dasar",
+        "items": [
+          "Kami boleh mengemas kini Dasar Kuki ini dari semasa ke semasa mengikut perubahan undang-undang atau perkhidmatan.",
+          "Versi terkini akan sentiasa dipaparkan pada halaman ini bersama tarikh kuat kuasa."
+        ]
+      }
+    ],
+    "contact": {
+      "title": "7) Hubungi kami",
+      "description": "Jika anda mempunyai pertanyaan tentang penggunaan kuki kami, hubungi kami di:"
+    }
+  },
+  "cookieBanner": {
+    "title": "Kami menggunakan kuki",
+    "description": "Kami menggunakan kuki untuk menambah baik pengalaman anda, mengingati pilihan bahasa, dan menganalisis trafik laman.",
+    "learnMore": "Ketahui lanjut",
+    "manage": "Urus",
+    "reject": "Tolak",
+    "accept": "Terima"
+  },
+  "aboutUs": {
+    "title": "Tentang Kami",
+    "subtitle": "Membentuk generasi baharu pengalaman penstriman.",
+    "badge": "Profil Korporat",
+    "backHome": "Kembali ke laman utama",
+    "intro": "Ozone oleh OC Global Technology dibina untuk menyatukan filem, pencipta, dan penonton dalam satu ekosistem pintar serta inklusif.",
+    "visionTitle": "Visi Kami",
+    "visionText": "Menjadi ekosistem penstriman global yang dipercayai, di mana cerita bermakna, peluang untuk pencipta, dan teknologi pintar disatukan untuk semua.",
+    "valuesTitle": "Nilai Teras",
+    "milestonesTitle": "Pencapaian Utama",
+    "teamTitle": "Pasukan Kepimpinan",
+    "stats": [
+      {
+        "label": "Pasaran Sasaran",
+        "value": "4+"
+      },
+      {
+        "label": "Teras Platform",
+        "value": "6"
+      },
+      {
+        "label": "Bahasa",
+        "value": "4"
+      },
+      {
+        "label": "Fungsi Pasukan",
+        "value": "8+"
+      }
+    ],
+    "values": [
+      {
+        "title": "Inovasi Berteraskan Pencipta",
+        "description": "Kami membina ciri yang memberi alat praktikal kepada pencipta untuk menerbit, berkembang, menjana pendapatan, dan berhubung dengan penonton global."
+      },
+      {
+        "title": "Pengalaman Berfokuskan Penonton",
+        "description": "Kami mengutamakan kualiti penemuan, relevansi kandungan, dan pengalaman tontonan lancar agar penonton menemui kandungan yang benar-benar sesuai."
+      },
+      {
+        "title": "Pertumbuhan Bertanggungjawab",
+        "description": "Kami berkembang dengan integriti, menyeimbangkan kelajuan produk, keselamatan platform, dan nilai jangka panjang untuk pengguna serta rakan kerjasama."
+      }
+    ],
+    "milestones": [
+      {
+        "year": "2024",
+        "title": "Konsep dan kerangka produk",
+        "description": "Skop produk awal dan proposisi nilai ditetapkan dengan fokus kepada pencipta, kandungan format panjang, dan penemuan berasaskan AI."
+      },
+      {
+        "year": "2025",
+        "title": "Laman jenama dan pra-pendaftaran",
+        "description": "Laman jenama awam serta aliran pra-pendaftaran berbilang bahasa dilancarkan untuk mengesahkan permintaan penonton dan minat pencipta."
+      },
+      {
+        "year": "2026",
+        "title": "Persediaan platform dan pembinaan ekosistem",
+        "description": "Pengalaman teras, kesiapsiagaan pematuhan, dan aliran kerja rakan strategik sedang diperkukuh menjelang pelancaran yang lebih luas."
+      }
+    ],
+    "contactTitle": "Bekerjasama dengan kami",
+    "contactDescription": "Untuk peluang kerjasama, media, atau kolaborasi, hubungi kami di:"
+  },
+  "contactUs": {
+    "badge": "Berhubung Dengan Kami",
+    "title": "Hubungi Kami",
+    "subtitle": "Mari bina masa depan penstriman bersama.",
+    "backHome": "Kembali ke laman utama",
+    "intro": "Sama ada anda pencipta, jenama, atau rakan strategik berpotensi, kami sedia berhubung. Hubungi kami dan pasukan kami akan membalas secepat mungkin.",
+    "cards": [
+      {
+        "title": "Kerjasama Strategik",
+        "content": "Untuk kerjasama strategik, kolaborasi kempen, dan peluang rentas platform."
+      },
+      {
+        "title": "Media & Akhbar",
+        "content": "Untuk pertanyaan media, sesi temu bual, dan permintaan rasmi berkaitan Ozone."
+      },
+      {
+        "title": "Sokongan Pencipta",
+        "content": "Untuk onboarding pencipta, pertanyaan ciri platform, dan peluang pertumbuhan."
+      },
+      {
+        "title": "Pertanyaan Umum",
+        "content": "Untuk sebarang pertanyaan lain tentang Ozone, kemas kini produk, atau proses pra-pendaftaran."
+      }
+    ],
+    "emailTitle": "E-mel kami",
+    "emailDescription": "Pasukan kami memantau peti masuk ini pada waktu bekerja.",
+    "formTitle": "Hantar mesej kepada kami",
+    "formSubtitle": "Isi maklumat anda dan kami akan menghubungi semula.",
+    "form": {
+      "name": "Nama",
+      "namePlaceholder": "Nama anda",
+      "email": "E-mel",
+      "emailPlaceholder": "anda@email.com",
+      "subject": "Subjek",
+      "subjectPlaceholder": "Bagaimana kami boleh bantu?",
+      "message": "Mesej",
+      "messagePlaceholder": "Tulis mesej anda di sini...",
+      "submit": "Hantar Mesej",
+      "sending": "Menghantar...",
+      "success": "Mesej berjaya dihantar. Kami akan hubungi anda secepat mungkin.",
+      "error": "Mesej tidak dapat dihantar sekarang. Sila cuba lagi."
+    },
+    "socialTitle": "Ikuti saluran rasmi kami",
+    "socials": [
+      {
+        "name": "TikTok",
+        "href": "https://www.tiktok.com/@__0zone__?_r=1&_t=ZS-92rwGtCppay"
+      },
+      {
+        "name": "Instagram",
+        "href": "https://www.instagram.com/ozoneocgt?igsh=MjdsaTg2c2Jlenpn"
+      },
+      {
+        "name": "Facebook",
+        "href": "https://www.facebook.com/share/1CF6fuuhf4/"
+      }
+    ]
   }
 }

@@ -148,7 +148,12 @@
     }
   },
   "footer": {
-    "builtBy": "Built by ©️ OC Global Technology"
+    "builtBy": "Copyright © 2026 OC Global Technology. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsConditions": "Terms & Conditions",
+    "cookiePolicy": "Cookie Policy",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us"
   },
   "survey": {
     "preregister": "preregister",
@@ -283,5 +288,338 @@
       "error": "Could not submit right now. Please try again.",
       "errorRequired": "Please fill in name, role, and email."
     }
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "effectiveDateLabel": "Effective date",
+    "effectiveDate": "March 3, 2026",
+    "backHome": "Back to home",
+    "intro": "Ozone by OC Global Technology respects your privacy. This policy explains how we collect, use, store, and protect your information when you visit our website or submit a preregistration form.",
+    "sections": [
+      {
+        "title": "1) Information we collect",
+        "items": [
+          "Information you provide through preregistration forms, including name, email, role (creator/viewer), and any other details you choose to share.",
+          "For some forms, we may also collect phone number, country, content interests, devices, or viewing preferences.",
+          "Your language preference may be stored locally in your browser (localStorage) for a consistent experience."
+        ]
+      },
+      {
+        "title": "2) How we use your information",
+        "items": [
+          "To manage early user interest for Ozone and support product launch planning.",
+          "To contact you with updates about early access, product information, or collaboration opportunities.",
+          "To analyze aggregate trends and improve platform experience and communication."
+        ]
+      },
+      {
+        "title": "3) Data storage and security",
+        "items": [
+          "Form data is stored using Firebase/Firestore infrastructure.",
+          "We apply reasonable technical and organizational safeguards to protect your information from unauthorized access, disclosure, or changes.",
+          "However, no method of transmission or storage over the internet can be guaranteed to be fully secure."
+        ]
+      },
+      {
+        "title": "4) Information sharing",
+        "items": [
+          "We do not sell your personal data to third parties.",
+          "Data may be processed by technology service providers used to operate the website (for example, hosting and infrastructure), with appropriate security requirements.",
+          "We may disclose information if required by law or valid legal process."
+        ]
+      },
+      {
+        "title": "5) Data retention",
+        "items": [
+          "Your information is retained as long as needed for operations, interest analysis, and product-related communication.",
+          "We may delete or anonymize data when no longer required, subject to legal obligations."
+        ]
+      },
+      {
+        "title": "6) Your rights",
+        "items": [
+          "You may request access to, correction of, or deletion of personal data you submitted to us.",
+          "You may also withdraw consent for marketing communications at any time."
+        ]
+      },
+      {
+        "title": "7) Third-party links",
+        "items": [
+          "This website may include links to external platforms (for example, social media).",
+          "Third-party privacy practices are separate, and we encourage you to review their policies directly."
+        ]
+      },
+      {
+        "title": "8) Updates to this policy",
+        "items": [
+          "This Privacy Policy may be updated from time to time to reflect service or legal changes.",
+          "The latest version will always be available on this page together with its effective date."
+        ]
+      }
+    ],
+    "contact": {
+      "title": "9) Contact us",
+      "description": "If you have questions about privacy or would like to make a data request, please contact us at:"
+    }
+  },
+  "termsConditions": {
+    "title": "Terms & Conditions",
+    "effectiveDateLabel": "Effective date",
+    "effectiveDate": "March 3, 2026",
+    "backHome": "Back to home",
+    "intro": "By accessing or using Ozone websites and preregistration forms, you agree to these Terms & Conditions. If you do not agree, please discontinue use of our services.",
+    "sections": [
+      {
+        "title": "1) Acceptance of terms",
+        "items": [
+          "These terms apply to all visitors and users of Ozone digital properties.",
+          "You are responsible for reviewing these terms periodically for updates.",
+          "Continued use after updates means you accept the revised terms."
+        ]
+      },
+      {
+        "title": "2) Eligibility and user responsibilities",
+        "items": [
+          "You agree to provide accurate and up-to-date information in all forms.",
+          "You must not use the website for unlawful, abusive, or fraudulent activities.",
+          "You are responsible for keeping your submitted information truthful and lawful."
+        ]
+      },
+      {
+        "title": "3) Preregistration and communication",
+        "items": [
+          "Preregistration does not guarantee product availability, launch date, or account approval.",
+          "We may contact you regarding early access, product updates, and related announcements.",
+          "You may opt out of marketing communication where applicable."
+        ]
+      },
+      {
+        "title": "4) Intellectual property",
+        "items": [
+          "All branding, logos, design elements, and website content are owned by Ozone/OC Global Technology or used with permission.",
+          "You may not copy, reproduce, distribute, or commercially exploit our materials without prior written consent."
+        ]
+      },
+      {
+        "title": "5) Prohibited conduct",
+        "items": [
+          "You must not attempt unauthorized access, reverse engineering, scraping, or disruption of our systems.",
+          "You must not submit malicious code, spam, or content that violates any applicable law."
+        ]
+      },
+      {
+        "title": "6) Third-party services and links",
+        "items": [
+          "Our website may include links to third-party services (for example, social media platforms).",
+          "We are not responsible for third-party content, availability, or terms.",
+          "Your use of third-party services is governed by their own policies."
+        ]
+      },
+      {
+        "title": "7) Disclaimer and limitation of liability",
+        "items": [
+          "Website and preregistration services are provided on an 'as is' and 'as available' basis.",
+          "To the maximum extent permitted by law, we do not guarantee uninterrupted service or error-free operation.",
+          "We are not liable for indirect, incidental, or consequential damages arising from your use of the website."
+        ]
+      },
+      {
+        "title": "8) Changes and termination",
+        "items": [
+          "We may modify, suspend, or discontinue any part of the website or service at any time.",
+          "We may update these Terms & Conditions from time to time, and updates take effect once published on this page."
+        ]
+      }
+    ],
+    "contact": {
+      "title": "9) Contact us",
+      "description": "If you have questions about these terms, please contact us at:"
+    }
+  },
+  "cookiePolicy": {
+    "title": "Cookie Policy",
+    "effectiveDateLabel": "Effective date",
+    "effectiveDate": "March 3, 2026",
+    "backHome": "Back to home",
+    "intro": "This Cookie Policy explains how Ozone by OC Global Technology uses cookies and similar technologies when you visit our website.",
+    "sections": [
+      {
+        "title": "1) What are cookies?",
+        "items": [
+          "Cookies are small text files stored on your browser or device when you visit a website.",
+          "They help websites remember preferences, improve performance, and understand usage patterns."
+        ]
+      },
+      {
+        "title": "2) Types of cookies we may use",
+        "items": [
+          "Essential cookies: required for core website functions and security.",
+          "Preference cookies: remember settings such as language selection.",
+          "Analytics cookies: help us understand traffic and improve the user experience."
+        ]
+      },
+      {
+        "title": "3) How we use cookies",
+        "items": [
+          "To keep the website functioning properly.",
+          "To remember your preferred language and improve consistency across visits.",
+          "To analyze general usage trends and optimize content and performance."
+        ]
+      },
+      {
+        "title": "4) Third-party cookies",
+        "items": [
+          "Some third-party services linked from our website may place their own cookies.",
+          "We do not control third-party cookie behavior; please review their own cookie or privacy policies."
+        ]
+      },
+      {
+        "title": "5) Managing cookies",
+        "items": [
+          "You can manage or disable cookies through your browser settings.",
+          "Blocking certain cookies may affect website features and your browsing experience."
+        ]
+      },
+      {
+        "title": "6) Policy updates",
+        "items": [
+          "We may update this Cookie Policy from time to time to reflect legal or service changes.",
+          "The latest version will always be available on this page with its effective date."
+        ]
+      }
+    ],
+    "contact": {
+      "title": "7) Contact us",
+      "description": "If you have questions about our use of cookies, contact us at:"
+    }
+  },
+  "cookieBanner": {
+    "title": "We use cookies",
+    "description": "We use cookies to improve your experience, remember language preferences, and analyze site traffic.",
+    "learnMore": "Learn more",
+    "manage": "Manage",
+    "reject": "Reject",
+    "accept": "Accept"
+  },
+  "aboutUs": {
+    "title": "About Us",
+    "subtitle": "Shaping the next generation of streaming experiences.",
+    "badge": "Corporate Profile",
+    "backHome": "Back to home",
+    "intro": "Ozone by OC Global Technology is built to bring movies, creators, and audiences together in one smart and inclusive ecosystem.",
+    "visionTitle": "Our Vision",
+    "visionText": "To become a trusted global streaming ecosystem where meaningful stories, creator opportunities, and smart technology come together for everyone.",
+    "valuesTitle": "Core Values",
+    "milestonesTitle": "Milestones",
+    "teamTitle": "Leadership Team",
+    "stats": [
+      {
+        "label": "Target Markets",
+        "value": "4+"
+      },
+      {
+        "label": "Platform Pillars",
+        "value": "6"
+      },
+      {
+        "label": "Languages",
+        "value": "4"
+      },
+      {
+        "label": "Team Functions",
+        "value": "8+"
+      }
+    ],
+    "values": [
+      {
+        "title": "Creator-first Innovation",
+        "description": "We build features that give creators practical tools to publish, grow, monetize, and connect with audiences globally."
+      },
+      {
+        "title": "Audience-centered Experience",
+        "description": "We prioritize discovery quality, relevance, and smooth viewing so audiences can enjoy content that truly matches their interests."
+      },
+      {
+        "title": "Responsible Growth",
+        "description": "We scale with integrity, balancing product speed, platform safety, and long-term value for users and partners."
+      }
+    ],
+    "milestones": [
+      {
+        "year": "2024",
+        "title": "Concept and product framing",
+        "description": "Initial product scope and value proposition were defined with a focus on creators, long-form content, and AI-assisted discovery."
+      },
+      {
+        "year": "2025",
+        "title": "Landing experience and preregistration",
+        "description": "Public-facing brand site and multilingual preregistration flows were launched to validate audience demand and creator interest."
+      },
+      {
+        "year": "2026",
+        "title": "Platform readiness and ecosystem building",
+        "description": "Core experience, legal readiness, and partner workflows are being strengthened ahead of broader product rollout."
+      }
+    ],
+    "contactTitle": "Work with us",
+    "contactDescription": "For partnership, media, or collaboration opportunities, reach out to us at:"
+  },
+  "contactUs": {
+    "badge": "Get in Touch",
+    "title": "Contact Us",
+    "subtitle": "Let's build the future of streaming together.",
+    "backHome": "Back to home",
+    "intro": "Whether you are a creator, a brand, or a potential partner, we are happy to connect. Reach out and our team will get back to you.",
+    "cards": [
+      {
+        "title": "Partnerships",
+        "content": "For strategic partnerships, campaign collaboration, and cross-platform opportunities."
+      },
+      {
+        "title": "Media & Press",
+        "content": "For press inquiries, interviews, and official media requests about Ozone."
+      },
+      {
+        "title": "Creator Support",
+        "content": "For creator onboarding, platform feature questions, and growth opportunities."
+      },
+      {
+        "title": "General Inquiry",
+        "content": "For any other questions about Ozone, product updates, or the preregistration process."
+      }
+    ],
+    "emailTitle": "Email us",
+    "emailDescription": "Our team monitors this mailbox during business hours.",
+    "formTitle": "Send us a message",
+    "formSubtitle": "Fill in your details and we will get back to you.",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "you@email.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "How can we help?",
+      "message": "Message",
+      "messagePlaceholder": "Write your message here...",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully. We will get back to you soon.",
+      "error": "Unable to send your message right now. Please try again."
+    },
+    "socialTitle": "Follow our official channels",
+    "socials": [
+      {
+        "name": "TikTok",
+        "href": "https://www.tiktok.com/@__0zone__?_r=1&_t=ZS-92rwGtCppay"
+      },
+      {
+        "name": "Instagram",
+        "href": "https://www.instagram.com/ozoneocgt?igsh=MjdsaTg2c2Jlenpn"
+      },
+      {
+        "name": "Facebook",
+        "href": "https://www.facebook.com/share/1CF6fuuhf4/"
+      }
+    ]
   }
 }

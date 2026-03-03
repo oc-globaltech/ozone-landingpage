@@ -4,6 +4,7 @@ import Script from "next/script";
 import "./globals.css";
 import SmoothScroll from "@/components/SmoothScroll";
 import I18nProvider from "@/components/I18nProvider";
+import CookieBanner from "@/components/CookieBanner";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -71,6 +72,7 @@ export default function RootLayout({
         />
         <I18nProvider>
           <SmoothScroll>{children}</SmoothScroll>
+          <CookieBanner />
         </I18nProvider>
       </body>
     </html>

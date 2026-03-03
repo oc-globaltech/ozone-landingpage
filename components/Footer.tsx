@@ -1,6 +1,7 @@
 "use client";
 
 import { motion } from "motion/react";
+import Link from "next/link";
 import { useTranslation } from "react-i18next";
 
 export default function Footer() {
@@ -37,17 +38,51 @@ export default function Footer() {
       {/* Central Gradient Strip */}
       <div className="bg-gradient-to-r from-teal-400 via-cyan-400 to-teal-500 py-6 md:py-8">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div className="flex flex-col md:flex-row justify-between items-center gap-4 md:gap-8">
-            {/* Left Side - Email */}
+          <div className="rounded-2xl border border-white/20 bg-white/5 px-4 py-4 sm:px-6">
+            {/* Email */}
             <a
               href="mailto:marketing.admin@ocglobaltech.com"
-              className="text-white text-sm md:text-base font-bold hover:underline transition-all duration-200"
+              className="block text-center text-sm font-semibold text-white hover:underline transition-all duration-200 sm:text-base"
             >
               marketing.admin@ocglobaltech.com
             </a>
 
-            {/* Right Side - Copyright */}
-            <p className="text-white text-sm md:text-base font-bold">
+            {/* Links */}
+            <div className="mt-4 flex flex-wrap items-center justify-center gap-x-5 gap-y-2 text-sm sm:text-base">
+              <Link
+                href="/privacy-policy"
+                className="font-semibold text-white underline underline-offset-4 hover:text-slate-100 transition-all duration-200"
+              >
+                {t("footer.privacyPolicy")}
+              </Link>
+              <Link
+                href="/terms-conditions"
+                className="font-semibold text-white underline underline-offset-4 hover:text-slate-100 transition-all duration-200"
+              >
+                {t("footer.termsConditions")}
+              </Link>
+              <Link
+                href="/cookie-policy"
+                className="font-semibold text-white underline underline-offset-4 hover:text-slate-100 transition-all duration-200"
+              >
+                {t("footer.cookiePolicy")}
+              </Link>
+              <Link
+                href="/about-us"
+                className="font-semibold text-white underline underline-offset-4 hover:text-slate-100 transition-all duration-200"
+              >
+                {t("footer.aboutUs")}
+              </Link>
+              <Link
+                href="/contact-us"
+                className="font-semibold text-white underline underline-offset-4 hover:text-slate-100 transition-all duration-200"
+              >
+                {t("footer.contactUs")}
+              </Link>
+            </div>
+
+            {/* Copyright */}
+            <p className="mt-4 border-t border-white/20 pt-4 text-center text-xs font-semibold text-white/95 sm:text-sm">
               {t("footer.builtBy")}
             </p>
           </div>
