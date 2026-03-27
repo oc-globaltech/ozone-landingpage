@@ -26,20 +26,20 @@ export default function Hero({ onOpenSurvey }: HeroProps) {
   const throttleDelay = 16;
 
   useEffect(() => {
-    count.set(66167);
+    count.set(6661167);
   }, [count]);
   
   useMotionValueEvent(springCount, "change", (latest) => {
     const now = Date.now();
     if (now - lastUpdateRef.current >= throttleDelay) {
-      if (latest >= 1000) {
-        const kValue = latest / 1000;
-        const rounded = Math.round(kValue * 10) / 10;
+      if (latest > 1_000_000) {
+        const mValue = latest / 1_000_000;
+        const rounded = Math.round(mValue * 10) / 10;
         setDisplayValue(
-          rounded % 1 === 0 ? `${rounded}k` : `${rounded.toFixed(1)}k`
+          rounded % 1 === 0 ? `${rounded}M` : `${rounded.toFixed(1)}M`
         );
       } else {
-        setDisplayValue(Math.round(latest).toString());
+        setDisplayValue(Math.round(latest).toLocaleString());
       }
       lastUpdateRef.current = now; 
     }
