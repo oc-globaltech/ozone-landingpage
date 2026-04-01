@@ -31,7 +31,7 @@ export default function BottomSection({ onOpenSurvey }: BottomSectionProps) {
     //   videoUrl: "/gallery/DURUVA ORIGINAL.mp4",
     // },
     {
-      id: 3,
+      id: 1,
       title: t("gallery.videos.ramlee.title"),
       thumbnail: "/gallery/ramlee.png",
       description: t("gallery.videos.ramlee.description"),
@@ -39,7 +39,7 @@ export default function BottomSection({ onOpenSurvey }: BottomSectionProps) {
       videoUrl: "/gallery/DOREMI.mp4",
     },
     {
-      id: 4,
+      id: 2,
       title: t("gallery.videos.nold.title"),
       thumbnail: "/gallery/nold.png",
       description: t("gallery.videos.nold.description"),
@@ -47,7 +47,7 @@ export default function BottomSection({ onOpenSurvey }: BottomSectionProps) {
       videoUrl: "/gallery/nold.mp4",
     },
     {
-      id: 5,
+      id: 3,
       title: t("gallery.videos.veera.title"),
       thumbnail: "/gallery/evp.png",
       description: t("gallery.videos.veera.description"),
@@ -55,7 +55,7 @@ export default function BottomSection({ onOpenSurvey }: BottomSectionProps) {
       videoUrl: "/gallery/evp.mov",
     },
     {
-      id: 6,
+      id: 4,
       title: t("gallery.videos.sherlock.title"),
       thumbnail: "/gallery/sherlock.png",
       description: t("gallery.videos.sherlock.description"),
