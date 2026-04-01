@@ -87,16 +87,6 @@
     "title": "Pasukan",
     "team": "Kami",
     "members": {
-      "john": {
-        "name": "John",
-        "title": "Ketua Pegawai Inovasi",
-        "quote": "Di Oz, teknologi bukan sekadar tulang belakang—ia adalah pencerita. Kami membina ekosistem penstriman pintar di mana inovasi memperkuat kreativiti dan menghubungkan penonton tanpa had."
-      },
-      "zizi": {
-        "name": "Zizi",
-        "title": "Ketua Pembangun",
-        "quote": "Ozone dibangunkan dengan satu tujuan - memberikan pencipta dan penonton platform yang akhirnya boleh mereka panggil milik mereka sendiri."
-      },
       "lim": {
         "name": "Lim",
         "title": "Ketua Pereka UI/UX",

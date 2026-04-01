@@ -34,18 +34,6 @@ export default function AboutUsPage() {
 
   const leadership = [
     {
-      image: "/john.png",
-      name: t("team.members.john.name"),
-      title: t("team.members.john.title"),
-      quote: t("team.members.john.quote"),
-    },
-    {
-      image: "/zizi.png",
-      name: t("team.members.zizi.name"),
-      title: t("team.members.zizi.title"),
-      quote: t("team.members.zizi.quote"),
-    },
-    {
       image: "/lim.png",
       name: t("team.members.lim.name"),
       title: t("team.members.lim.title"),

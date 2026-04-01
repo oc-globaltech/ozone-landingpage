@@ -87,16 +87,6 @@
     "title": "Our",
     "team": "Team",
     "members": {
-      "john": {
-        "name": "John",
-        "title": "Chief Innovation Officer",
-        "quote": "At Oz, technology is not just a backbone—it's the storyteller. We're building an intelligent streaming ecosystem where innovation amplifies creativity and connects audiences without limits"
-      },
-      "zizi": {
-        "name": "Zizi",
-        "title": "Lead Developer",
-        "quote": "Ozone is developed with one purpose - giving creators and viewers a platform they can finally call their own."
-      },
       "lim": {
         "name": "Lim",
         "title": "UI/UX Designer Lead",

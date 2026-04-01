@@ -10,29 +10,15 @@ export default function TeamSection() {
   const [hoveredMemberId, setHoveredMemberId] = useState<number | null>(null);
   
   const teamMembers = [
-    {
-      id: 1,
-      image: "/john.png", 
-      name: t("team.members.john.name"),
-      title: t("team.members.john.title"),
-      quote: t("team.members.john.quote")
-    },
     { 
-      id: 2, 
-      image: "/zizi.png", 
-      name: t("team.members.zizi.name"),
-      title: t("team.members.zizi.title"),
-      quote: t("team.members.zizi.quote")
-    },
-    { 
-      id: 3, 
+      id: 1, 
       image: "/lim.png",
       name: t("team.members.lim.name"),
       title: t("team.members.lim.title"),
       quote: t("team.members.lim.quote")
     },
     { 
-      id: 4,
+      id: 2,
       image: "/maza.png",
       name: t("team.members.maza.name"),
       title: t("team.members.maza.title"),
