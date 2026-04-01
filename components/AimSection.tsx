@@ -14,7 +14,7 @@ export default function AimSection() {
 
   const videoPaths = [
     "/gallery/ozAd.mp4",
-    "/gallery/duruva.mp4",
+    // "/gallery/duruva.mp4",
   ];
 
   const currentVideo = videoPaths[currentIndex % videoPaths.length] ?? "";

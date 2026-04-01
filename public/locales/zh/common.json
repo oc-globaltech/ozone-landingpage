@@ -115,11 +115,6 @@
     "watchMore": "观看更多",
     "play": "播放",
     "videos": {
-      "duruva": {
-        "title": "Duruva 2037",
-        "description": "一部紧张刺激的生存惊悚片，讲述一对双胞胎兄弟姐妹在世界最高舞台上直面极端危险的非凡攀登之旅。",
-        "genres": ["冒险", "惊悚"]
-      },
       "popeyes": {
         "title": "Popeyes",
         "description": "一位搞笑的水手从菠菜中获得超强力量，在欢乐的冒险中解决麻烦并保护朋友们。",

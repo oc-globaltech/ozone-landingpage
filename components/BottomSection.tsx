@@ -22,14 +22,14 @@ export default function BottomSection({ onOpenSurvey }: BottomSectionProps) {
       videoUrl: "/gallery/popeyesvid.mp4",
     },
  
-    {
-      id:2,
-      title: t("gallery.videos.duruva.title"),
-      thumbnail: "/gallery/duruva1.png",
-      description: t("gallery.videos.duruva.description"),
-      genre: t("gallery.videos.duruva.genres", { returnObjects: true }) as string[],
-      videoUrl: "/gallery/DURUVA ORIGINAL.mp4",
-    },
+    // {
+    //   id:2,
+    //   title: t("gallery.videos.duruva.title"),
+    //   thumbnail: "/gallery/duruva1.png",
+    //   description: t("gallery.videos.duruva.description"),
+    //   genre: t("gallery.videos.duruva.genres", { returnObjects: true }) as string[],
+    //   videoUrl: "/gallery/DURUVA ORIGINAL.mp4",
+    // },
     {
       id: 3,
       title: t("gallery.videos.ramlee.title"),
